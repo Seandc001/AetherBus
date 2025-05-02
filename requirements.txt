@@ -1,0 +1,4 @@
+redis>=4.2.0
+python-dotenv
+pytest
+# Add any other dependencies used in your project below
